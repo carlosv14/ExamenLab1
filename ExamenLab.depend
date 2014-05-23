@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1400822674 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	"burbujita.h"
+	<list>
+	<stdlib.h>
+	"boton.h"
+	<sstream>
+	<string>
+	"badbubbles.h"
+	"SDL/SDL_mixer.h"
+	"congeladas.h"
+	"explosive.h"
+	<fstream>
+	"bonus.h"
+
+1400368661 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/burbujita.cpp
+	"burbujita.h"
+
+1400528510 /home/cvarela/Desktop/PROGRA3/ExamenLab/burbujita.h
+	<SDL/SDL.h>
+	<list>
+	<iostream>
+
+1400806828 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/boton.cpp
+	"boton.h"
+
+1400806828 /home/cvarela/Desktop/PROGRA3/ExamenLab/boton.h
+	<SDL/SDL.h>
+
+1400368660 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/badbubbles.cpp
+	"badbubbles.h"
+
+1400354788 /home/cvarela/Desktop/PROGRA3/ExamenLab/badbubbles.h
+	"burbujita.h"
+
+1400471794 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/congeladas.cpp
+	"congeladas.h"
+
+1400358112 /home/cvarela/Desktop/PROGRA3/ExamenLab/congeladas.h
+	"burbujita.h"
+
+1400473846 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/explosive.cpp
+	"explosive.h"
+
+1400471876 /home/cvarela/Desktop/PROGRA3/ExamenLab/explosive.h
+	<SDL/SDL.h>
+	"burbujita.h"
+
+1400814945 source:/home/cvarela/Desktop/PROGRA3/ExamenLab/bonus.cpp
+	"bonus.h"
+
+1400814980 /home/cvarela/Desktop/PROGRA3/ExamenLab/bonus.h
+	"burbujita.h"
+
